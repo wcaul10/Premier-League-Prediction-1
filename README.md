@@ -36,6 +36,7 @@ I tested how adding more features affected accuracy. Here's the result:
 - Try other models (Random Forest, Logistic Regression)
 - Predict goal counts instead of just match outcome
 - Include ELO ratings or form
+- Create a more accurate model
 
 ---
 
@@ -45,4 +46,5 @@ As a football fan and AI student, I wanted to combine machine learning with real
 - Data cleaning and merging
 - Feature engineering
 - Model training and evaluation
+Overall, football is a very unpredictable game, hence the low percentages.
 
