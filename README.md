@@ -15,6 +15,7 @@ This project uses Premier League data from the 2014/15 to 2018/19 seasons to tra
 
 I tested how adding more features affected accuracy. Here's the result:
 
+<img width="1000" height="500" alt="feature_accuracy" src="https://github.com/user-attachments/assets/b25b98fb-6ce7-4b45-9950-b9dffb74ed5a" />
 
 
 ## 🔧 Technologies
